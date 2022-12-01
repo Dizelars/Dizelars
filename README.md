@@ -20,4 +20,4 @@
     __vk:__ https://vk.me/id121181877
 		
 ## Cool, now we know each other a little better!
-## Cool ideas and good mood!!! Bye))
+## Cool ideas and good mood!!!
