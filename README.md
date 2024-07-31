@@ -1,4 +1,4 @@
-# Hello everyone, my name is Arseny!:wave:
+# Hello everyone, my name is Arseny!
 ## I am an evolving Frontend-developer who is going after my dreams with a positive outlook on life!
 
 1. The technologies that I use at the moment:  
@@ -20,4 +20,4 @@
     __vk:__ https://vk.me/id121181877
 		
 ## Cool, now we know each other a little better!
-## Cool ideas and good mood!!!:v:
+## Cool ideas and good mood!!!
