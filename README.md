@@ -12,9 +12,9 @@
     __Virtualization:__ VirtualBox.
     
 2. How can you contact me:  
-    __E-mail:__ <ars_logachev@mail.ru>
-    __Telegram:__ http://t.me/dizelars
-    __vk:__ https://vk.me/id121181877
+    __E-mail:__ <ars_logachev@mail.ru>	
+    __Telegram:__ http://t.me/dizelars	
+    __vk:__ https://vk.me/id121181877	
 		
 ## Cool, now we know each other a little better!
 ## Cool ideas and good mood!!!
