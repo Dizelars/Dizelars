@@ -12,11 +12,8 @@
     __Virtualization:__ VirtualBox.
     
 2. How can you contact me:  
-    __E-mail:__ <ars_logachev@mail.ru>  
-    __Phone:__ [8(917)-565-63-97](tel:89175656397)  
-    __Telegram:__ http://t.me/dizelars  
-    __WhatsApp:__ https://wa.me/79175656397  
-    __My website:__ https://ars-log.ru  
+    __E-mail:__ <ars_logachev@mail.ru>
+    __Telegram:__ http://t.me/dizelars
     __vk:__ https://vk.me/id121181877
 		
 ## Cool, now we know each other a little better!
