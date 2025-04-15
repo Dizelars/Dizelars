@@ -10,11 +10,6 @@
     __Graphic editors:__ Figma, Adobe Photoshop, Pixso;  
     __Design:__ UI/UX;  
     __Virtualization:__ VirtualBox.
-    
-2. How can you contact me:  
-    __E-mail:__ <ars_logachev@mail.ru> <br>
-   __Telegram:__ http://t.me/dizelars  <br>
-    __vk:__ https://vk.me/id121181877  <br>
 		
 ## Cool, now we know each other a little better!
 ## Cool ideas and good mood!!!
